@@ -94,6 +94,7 @@ struct SettingsView: View {
             }
             .pickerStyle(.segmented)
             .controlSize(.small)
+            .colorScheme(.dark)
 
             Text(menuBarDescription)
                 .font(.system(size: 9))

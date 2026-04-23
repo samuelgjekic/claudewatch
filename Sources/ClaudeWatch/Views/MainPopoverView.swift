@@ -98,6 +98,7 @@ struct MainPopoverView: View {
         }
         .pickerStyle(.segmented)
         .controlSize(.small)
+        .colorScheme(.dark)
     }
 
     @ViewBuilder
