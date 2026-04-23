@@ -8,11 +8,14 @@ A native macOS menu bar app that monitors your Claude subscription usage in real
 
 Download the latest **ClaudeWatch.dmg** from [Releases](https://github.com/samuelgjekic/claudewatch/releases), open it, and drag ClaudeWatch to your Applications folder.
 
-> **macOS Gatekeeper notice:** Since the app isn't notarized with Apple, macOS may block it. After opening the DMG, run this before dragging to Applications:
+> **macOS Gatekeeper notice:** Since the app isn't notarized with Apple, macOS may block it. After opening the DMG:
 > ```bash
 > xattr -cr /Volumes/ClaudeWatch/ClaudeWatch.app
 > ```
-> Then drag it to Applications and open normally.
+> Then drag to Applications and open normally. If you already dragged it first:
+> ```bash
+> xattr -cr /Applications/ClaudeWatch.app
+> ```
 
 ### Build from source
 
