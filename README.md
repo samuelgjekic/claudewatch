@@ -3,7 +3,7 @@
 A native macOS menu bar app that monitors your Claude subscription usage in real time.
 <img width="365" height="434" alt="image" src="https://github.com/user-attachments/assets/b64744d2-a507-4b53-9207-269450bf4bc1" />
 <img width="372" height="464" alt="image" src="https://github.com/user-attachments/assets/b1b09a0a-c2bc-4091-9f8a-66f39838735a" />
-<img width="378" height="467" alt="image" src="https://github.com/user-attachments/assets/8180943c-4059-4a77-9fff-d6687d6c56ab" />
+<img width="372" height="465" alt="image" src="https://github.com/user-attachments/assets/d76055cc-fcf4-49d6-a536-401c4bfca02e" />
 
 ## Install
 
