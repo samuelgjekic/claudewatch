@@ -1,5 +1,7 @@
 # ClaudeWatch
 
+> **Deprecated — this repository has moved to the [Techlove organization](https://github.com/techlove/claudewatch).**
+
 A native macOS menu bar app that monitors your Claude subscription usage in real time.
 <img width="147" height="27" alt="image" src="https://github.com/user-attachments/assets/b27028b9-77b2-4be1-98fe-bac01373136c" />
 
